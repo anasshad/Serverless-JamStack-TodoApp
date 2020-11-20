@@ -15,7 +15,7 @@
   "author": "Netlify",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-lambda": "^2.18.2",
+    "apollo-server-lambda": "^2.19.0",
     "faunadb": "^3.0.1",
     "graphql": "^14.1.1",
     "netlify": "^4.9.0",
